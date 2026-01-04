@@ -37,6 +37,6 @@ build/
 ### Mac OS ###
 .DS_Store
 src/main/resources/application.properties
-/.idea
+.idea
 learning.md
 practice.md
