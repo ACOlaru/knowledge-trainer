@@ -15,15 +15,15 @@ Knowledge Trainer allows users to:
 
 # Features
 
-📚 Learn mode – generates structured learning content for any topic
+- 📚 Learn mode – generates structured learning content for any topic
 
-📝 Practice mode – generates questions with expected answer points
+- 📝 Practice mode – generates questions with expected answer points
 
-🤖 AI feedback – evaluates user answers and provides feedback
+- 🤖 AI feedback – evaluates user answers and provides feedback
 
-📄 Markdown export – saves sessions in a readable .md format
+- 📄 Markdown export – saves sessions in a readable .md format
 
-🛡 Error-resilient CLI – API or parsing errors never crash the app
+- 🛡 Error-resilient CLI – API or parsing errors never crash the app
 
 # Technologies
 
@@ -52,7 +52,7 @@ Knowledge Trainer allows users to:
 
 🚀 How to Run
 1. Clone the repository
-   git clone https://github.com/your-username/knowledge-trainer.git
+   git clone https://github.com/ACOlaru/knowledge-trainer.git
    cd knowledge-trainer
 
 2. Set your OpenAI API key and model
