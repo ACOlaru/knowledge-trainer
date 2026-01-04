@@ -52,13 +52,13 @@ Knowledge Trainer allows users to:
 
 🚀 How to Run
 1. Clone the repository
-   git clone https://github.com/ACOlaru/knowledge-trainer.git
-   cd knowledge-trainer
+- git clone https://github.com/ACOlaru/knowledge-trainer.git
+- cd knowledge-trainer
 
 2. Set your OpenAI API key and model
-Recommended model: gpt-4o-mini
-Set your key and model in application.properties file   
+- Recommended model: gpt-4o-mini
+- Set your key and model in application.properties file   
 
 3. Build & run
-   mvn clean package
-   Run KnowledgeTrainerApplication
+- mvn clean package
+- Run KnowledgeTrainerApplication
